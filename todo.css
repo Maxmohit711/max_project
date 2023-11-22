@@ -1,0 +1,38 @@
+.row{
+  width: 0auto;
+  height: 200px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 60px;
+}
+
+button{
+ border: none;
+ height: 50px;
+ width: 100px;
+ font-size: 30px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-weight: bold;
+ transition: 300ms;
+}
+
+button:hover {
+  color: white;
+  background: black;
+  height: 60px ;
+  opacity: 40%;
+  border-radius: 20px;
+}
+
+.btn1{
+  background-color: #FF3434;
+}
+.btn2{
+  
+  background-color: #04A900;
+}
